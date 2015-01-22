@@ -2,18 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="var" path="CHCBZ_LIB/log4j-1.2.17.jar"/>
-	<classpathentry kind="var" path="CHCBZ_LIB/slf4j-api-1.7.5.jar"/>
-	<classpathentry kind="var" path="CHCBZ_LIB/slf4j-log4j12-1.7.5.jar"/>
-	<classpathentry kind="var" path="CHCBZ_LIB/commons-io-2.4.jar"/>
-	<classpathentry kind="var" path="CHCBZ_LIB/commons-lang-2.6.jar"/>
-	<classpathentry kind="var" path="CHCBZ_LIB/ant.jar"/>
-	<classpathentry kind="var" path="CHCBZ_LIB/hibernate3.jar"/>
-	<classpathentry kind="var" path="CHCBZ_LIB/mail.jar"/>
-	<classpathentry kind="var" path="CHCBZ_LIB/servlet-api.jar"/>
-	<classpathentry kind="var" path="CHCBZ_LIB/commons-fileupload-1.2.1.jar"/>
-	<classpathentry kind="var" path="CHCBZ_LIB/freemarker.jar"/>
-	<classpathentry kind="var" path="CHCBZ_LIB/commons-net-2.0.jar"/>
-	<classpathentry kind="var" path="CHCBZ_LIB/pinyin4j-2.5.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/CHCBZ_LIB"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
