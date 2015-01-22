@@ -1,0 +1,11 @@
+<project name="chcbz-util" default="build" basedir=".">
+	<target name="build">
+		<!--
+		<mkdir dir="temp" />
+		<jar jarfile="chcbz-util.jar" basedir="temp" />
+		<copy file="chcbz-util.jar" todir="../dist"/>
+		<delete dir="temp" />
+		-->
+		<jar jarfile="chcbz-util.jar" basedir="bin" />
+	</target>
+</project>
